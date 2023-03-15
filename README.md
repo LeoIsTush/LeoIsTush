@@ -4,7 +4,7 @@
 
 ![line](./img/line.gif)
 
-## I'm a UI/UX Designer and Tech enthusiast
+## I'm a UI/UX Designer and Expert
 
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate with other UI/UX Designers
