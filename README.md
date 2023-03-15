@@ -1,10 +1,10 @@
 # Hi there! 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Lawson+Osuji+here...;I'm+a+UI+/+UX+Designer;I'm+available+for+hire;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Lawson+Osuji+here...;I'm+a+UI+/+UX+Designer;I'm+available+for+jobs;)](https://git.io/typing-svg)
 
 ![line](./img/line.gif)
 
-## I'm a UI/UX Designer, Mentor and Tech enthusiast
+## I'm a UI/UX Designer and Tech enthusiast
 
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate with other UI/UX Designers
