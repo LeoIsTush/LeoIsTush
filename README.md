@@ -1,43 +1,42 @@
 # Hi there! 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Lawson+Osuji+here...;I'm+a+UI+UX+Designer;I'm+currenty+learning+all+about+frontend+development;I'm+available+for+hire;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Lawson+Osuji+here...;I'm+a+UI+/+UX+Designer;I'm+available+for+hire;)](https://git.io/typing-svg)
 
 ![line](./img/line.gif)
 
 ## I'm a Developer, Mentor and Tech enthusiast
 
-- 🌱 I’m currently learning Ruby on rails
-- 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Learn more about Backend development
-- ⚡ Fun fact: I love playing pool
+- 🌱 I’m currently learning Frontend Development
+- 👯 I’m looking to collaborate with other UI/UX Designers
+- 🥅 2022 Goals: Learn more about Frontend development
+- ⚡ Fun fact: I love good designs
 
 ![line](./img/line.gif)
 
 ### Connect with me:
-[![abdelmejid89@gmail.com.com](./img/gmail.svg)](mailto:abdelmejid89@gmail.com)
+[![thahybreed@gmail.com](./img/gmail.svg)](mailto:thahybreed@gmail.com)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/amejidoumer#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/amejidoumer#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/lawsonosuji#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/lawsonosuji#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/amejid#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/amejid#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/lawson-osuji#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/lawson-osuji#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ![line](./img/line.gif)
 
 ### Languages and Tools:
 
+[<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />](https://www.figma.com/)
+[<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="padding-right:10px;" />](https://helpx.adobe.com/xd/get-started.html)
+[<img align="left" alt="Sketch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" style="padding-right:10px;" />](https://www.sketch.com/)
+[<img align="left" alt="Material UI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />](https://mui.com/)
+[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />](https://getbootstrap.com/)
+[<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="padding-right:10px;" />](https://tailwindcss.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/html/)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/css/)
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/)
-[<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />](https://www.ruby-lang.org/en/)
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://mysql.com)
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git.com)
-
 
 
 <br />
@@ -47,10 +46,10 @@
 
 ### MY GITHUB STATISTICS &nbsp; <img src="./img/statistics.png" height="30" align="justify"/>
 
-[![Abdelmejid's GitHub stats](https://github-readme-stats.vercel.app/api?username=amejid&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amejid&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![LeoIsTush's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoistush&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoistush&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[twitter]: https://twitter.com/amejidoumer
-[instagram]: https://instagram.com/amejid
-[linkedin]: https://linkedin.com/in/amejid
+[twitter]: https://twitter.com/leoistush
+[instagram]: https://instagram.com/leoistush
+[linkedin]: https://linkedin.com/in/lawson-osuji
